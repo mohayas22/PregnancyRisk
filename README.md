@@ -31,6 +31,4 @@ Review the risk assessment results provided by the system.
 Contributors
 Yasir Shaikh - Role
 
-Acknowledgments
-Any acknowledgments or credits for libraries, datasets, or resources used.
-Feel free to expand upon each section as needed and include additional details, instructions, or acknowledgments based on your project's specifics.
+
